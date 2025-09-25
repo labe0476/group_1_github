@@ -1,0 +1,26 @@
+/* .coding {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.div-container {
+    text-align: center;
+} */
+
+body {
+    color: black;
+    /* background-color: rgba(0, 255, 119, 0.523); */
+    background-image:url("What.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.coding {
+    background-color: blue;
+    opacity: 0.5;
+    /* color: white; */
+    border:6px inset rgba(0, 128, 0, 0.18);
+}
